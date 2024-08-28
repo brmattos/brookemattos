@@ -5,4 +5,3 @@ I'm a 3rd year student at UC Santa Cruz, pursuing a bachelor's of science in com
 ## Technical Skills
 **Languages: `Python, Java, C/C++, Javascript`**
 <br>
-**Frameworks: `React, Next.js`**
